@@ -14,7 +14,7 @@
 - <br/>
 <p align="center">
 	<a href="https://github.com/Bouaskaoun">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Alexander+arvelo;Full+Stack+Web+Developer;&width=380&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Alexander+Arvelo;Full+Stack+Web+Developer;&width=380&height=45">
 	</a>
 </p>
 # 🛠️ My Favorite Tools
