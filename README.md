@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alexander arvelo</h1>
+<h1 align="center">Hi 👋, I'm Alexander Arvelo</h1>
 <h3 align="center">Full Stack developer | Html | Css | JavaScript | React |Next.js| Redux | NodeJs|Express|PostgreSQL</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexsilverr&label=Profile%20views&color=0e75b6&style=flat" alt="alexsilverr" /> </p>
 
